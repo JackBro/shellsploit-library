@@ -18,15 +18,6 @@ Python library for shellsploit-framework(https://github.com/b3mb4m/shellsploit-f
        print shellsploit.encode("x86/xor", 1, shellcode)
        
        
-#Donate 
---------
-
-![alt tag](http://i.hizliresim.com/QQ85a3.png)
-
-
-1HzaA1dyH2Hn57VnSBw6THw8kWo2diWvFF
-       
-       
        
 #Bugs/Requests
 ---------------
